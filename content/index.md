@@ -5,4 +5,4 @@ A maintenance woman enters a building, checks in with security and moves through
 
 Welcome to the Forgotten Skies.
 
-Bartender turned Information Security and Risk Management (ISRM), I approach this blog with stories, personality, and sarcasm. This is a place for me to publish my thoughts, ideas, and journey through the infosec space. It's also a place for me to put work instructions I create for fiddly processes I will inevitably forget.
+As a bartender turned Information Security and Risk Management (ISRM), I approach this blog with stories, personality, and sarcasm. This is a place for me to publish my thoughts, ideas, and journey through the infosec space. It's also a place for me to put work instructions I create for fiddly processes I will inevitably forget.
