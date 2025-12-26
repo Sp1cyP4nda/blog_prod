@@ -9,4 +9,4 @@ draft: true
 date: A string representing the day the note was published. Normally uses YYYY-MM-DD format.
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+The rest of your content lives here. You can use **Markdown** here :)[[example]]

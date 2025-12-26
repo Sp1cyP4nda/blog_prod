@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Home": "https://www.forgottenskies.net/",
       "GitHub": "https://github.com/Sp1cyP4nda/Projects",
+      "Made Using Quartz": "https://quartz.jzhao.xyz/",
       //"Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
