@@ -2,7 +2,6 @@
 draft: false
 tags:
   - networking
-  - network-segmentation
 date: 2026-02-11
 ---
 # Introduction
