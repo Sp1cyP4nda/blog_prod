@@ -11,6 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       "Made Using Quartz": "https://quartz.jzhao.xyz/",
       "Home": "https://www.forgottenskies.net/",
       "GitHub": "https://github.com/Sp1cyP4nda/Projects",
+      "Email Me": "mailto:blogmail@sp1cyp4nda.addy.io"
       //"Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
