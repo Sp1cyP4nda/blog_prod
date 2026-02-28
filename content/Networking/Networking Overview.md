@@ -79,9 +79,11 @@ This can be achieved by many different methods, depending entirely on use-case a
 For small home networks, you would set up a single DHCP server, I am (currently) using my pfSense for this, and that one server is configured with a admin-defined pool of IP addresses from which it can assign to however many devices connect to the network. My issue is that I...had two: the pfSense device, and the OpenWrt device (which is a fully capable OS that can be used by itself as a full suite of routing and access points).
 #### Easy Fix
 The way to disable OpenWrt acting as a DHCP server is to configure it to be what is colloquially known as a Dumb AP. After much fuss and research, it boils down to basically disabling three services in System -> Startup:
+
 - odhcpd
 - firewall
 - dnsmasq
+
 Then, when creating interfaces under Network -> Interfaces, make sure to set the protocols to Unmanaged. And, in the Firewall Settings tab of the interface, set to Unspecified. Everything else, leave default.
 
 > [!Note]
