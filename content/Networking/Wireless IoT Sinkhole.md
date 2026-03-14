@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tags:
   - networking
   - segmentation
@@ -8,7 +8,7 @@ date: 2026-03-14
 # Introduction
 I'm starting off my network segmentation journey with the IoT sinkhole. As discussed in [[Networking Overview]], my original idea was to split the wireless network into three and trunk them all through the same ethernet port to the firewall for everything to be handled there. I can definitely still do that, but my understanding isn't really to the point where I'd be doing anything more than blindly finding and following someone else's work instruction. There is nothing wrong with that manner of doing things, but I apparently enjoy making life difficult for myself and thus wanted to understand the buttons to push before pushing them.
 # The New Map
-###### If at first you don't succeed...reduce your expectations until you're a success - StuffMadeHere
+###### If at first you don't succeed...reduce your expectations until you're a success - StuffMadeHere in the video [Worlds Hardest Jigsaw vs Puzzle Machine](https://youtu.be/WsPHBD5NsS0?t=976)
 It occurred to me that I have two ethernet ports on the device I put OpenWrt on. Even though they are *labeled* WAN and LAN on the tin, doesn't mean that's what they have to do. Especially since I ripped the stock OS off in place of a custom one. Now the new mapping of the wireless networks is as follows:
 - Trusted network pretty much has carte blanche to connect to whatever (currently, this will not configured for carte blanche until I get to fully hardening) and uses one of the ethernet ports
 - Guest network will use the second ethernet port, and those that connect to it will be met with a captive portal (more on what that is in another post) before they can use the internet
@@ -110,7 +110,7 @@ Alright, you configured the DHCP/DNS server, the firewall, and the traffic rules
 # Conclusion
 I wanted to close this off with a little vulnerability (pun intended). I've always been of the opinion that it's important when going through your process with someone else (like in the case of me publicly releasing my journal) that including the struggles you went through is as important as your triumphs. I am not and will never be better than anyone else, nor do I strive to be.
 
-This took me a good several months of tinkering, thinking, and testing on repeat to do this. Many people would find this to be child's play regarding setting stuff up. And, reductively, I fell into a trap of comparing myself to these self-perceived "others:" "Such-and-such type-of-person wouldn't have had this much trouble doing this."
+This took me a good several months of tinkering, thinking, and testing on repeat to do this. Many people would find this to be child's play to set up. And, reductively, I fell into a trap of comparing myself to these self-perceived "others:" "Such-and-such type-of-person wouldn't have had this much trouble doing this."
 
 To this and to those who fall into this trap, I will say that it is important to remind yourself that you are not them. You will have your own struggles through any journey; and further, you are going to find things incredibly easy that these "others" will struggle with.
 

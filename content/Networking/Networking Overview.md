@@ -6,7 +6,7 @@ date: 2026-02-11
 ---
 # Introduction
 Welp, this took far longer to figure out than I originally thought. [[Breaking Things Down]] was really tested with this. I wanted to learn how to set up my network. I got that up and running without much of a fuss. Dope! Then, I wanted to learn how to segment it...And now my whole network's down. Great =\ What did I do wrong? How do I fix it? What was my goal again?
-## The Beginning
+# The Beginning
 ###### The only way to learn is by playing. The only way to win is by learning. And the only way to begin is by beginning - Sam Reich, Game Changer intros
 While I was bartending, I would ask regulars if they had any tech equipment that was taking up space in their house that they didn't want to pay to have thrown out. More people than I thought were far more happy to oblige. They got to get rid of old crap and I got to build my tool chest of tech while staying in budget. Two of these devices are relevant for this story: A ThinkCentre mini PC and a single node of a Google Mesh Wifi device.
 
