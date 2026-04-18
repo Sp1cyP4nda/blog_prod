@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Forgotten Skies</title>
+      <link>https://www.forgottenskies.net</link>
+      <description>Last 10 notes on Forgotten Skies</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Security and Privacy Basics</title>
+    <link>https://www.forgottenskies.net/Security-and-Privacy/Security-and-Privacy-Basics</link>
+    <guid>https://www.forgottenskies.net/Security-and-Privacy/Security-and-Privacy-Basics</guid>
+    <description><![CDATA[ Introduction What would you do if I told you that there existed a second version of you? This second you is exactly like you in every way. ]]></description>
+    <pubDate>Sat, 14 Mar 2026 21:24:23 GMT</pubDate>
+  </item><item>
+    <title>Wireless IoT Sinkhole</title>
+    <link>https://www.forgottenskies.net/Networking/Wireless-IoT-Sinkhole</link>
+    <guid>https://www.forgottenskies.net/Networking/Wireless-IoT-Sinkhole</guid>
+    <description><![CDATA[ Introduction I’m starting off my network segmentation journey with the IoT sinkhole. ]]></description>
+    <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
+  </item><item>
+    <title>Breaking Things Down</title>
+    <link>https://www.forgottenskies.net/Getting-Things-Done/Breaking-Things-Down</link>
+    <guid>https://www.forgottenskies.net/Getting-Things-Done/Breaking-Things-Down</guid>
+    <description><![CDATA[ When you can’t start on a project, it’s often because the scope is too big, an pattern that is deviously easy to fall into. ]]></description>
+    <pubDate>Sat, 14 Feb 2026 16:08:49 GMT</pubDate>
+  </item><item>
+    <title>Welcome to the Forgotten Skies</title>
+    <link>https://www.forgottenskies.net/</link>
+    <guid>https://www.forgottenskies.net/</guid>
+    <description><![CDATA[ A maintenance woman enters a building, checks in with security and moves through the lobby. ]]></description>
+    <pubDate>Sat, 14 Feb 2026 16:08:49 GMT</pubDate>
+  </item><item>
+    <title>Networking Overview</title>
+    <link>https://www.forgottenskies.net/Networking/Networking-Overview</link>
+    <guid>https://www.forgottenskies.net/Networking/Networking-Overview</guid>
+    <description><![CDATA[ Introduction Welp, this took far longer to figure out than I originally thought. Breaking Things Down was really tested with this. ]]></description>
+    <pubDate>Wed, 11 Feb 2026 05:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

@@ -10,3 +10,10 @@ date: A string representing the day the note was published. Normally uses YYYY-M
 ---
  
 The rest of your content lives here. You can use **Markdown** here :) [[example]]
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Subheader
