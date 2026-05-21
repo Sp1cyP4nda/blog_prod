@@ -25,7 +25,7 @@ Tier 0.5, I will define as the average Tier 0 user that does know the Data Machi
 ## Tier 1 - Starting the Journey
 Tier 1 users know the Data Machine exists and have found, stumbled upon, or been directed towards ways to learn what to do about it. Tier 1 users find blogs like this one, organizations with self-teaching material like [eff.org](https://eff.org), and have either looked into or started using services that are privacy-first, like [Proton Mail](https://proton.me). They notice the Data Machine in more places than they originally thought. An overwhelming feeling starts to creep in of always been watched, someone always listening. They start to feel exposed, like those dreams where we are in school and realize we're naked and get laughed at.
 
-To quell these fears, here's a list in order of how I thought of them (aka in no particular order) to start implementing into your life. Using any of one these puts you far ahead of Tier 0 users, so don't worry about which to start with or stressing about having to do all of them right now:
+To quell these fears, here's a list in order of how I thought of them (aka in no particular order) to start implementing into your life. Using any of one these puts you far ahead of Tier 0 users, so don't worry about which to start with or stressing about having to do all of them right now. I'll keep adding to this list as I think of new things.
 - Stop falling for FOMO campaigns.
 - Stop filling out online quizzes.
 - Don't download things from anywhere. Yes, from anywhere.
@@ -49,6 +49,7 @@ To quell these fears, here's a list in order of how I thought of them (aka in no
 		- All VPN companies are the same and they all keep logs. Just pick the cheapest.
 	- Data removal services
 - Don't do anything while connected to you company's network or VPN. You do not manage that network and anything you look up is logged and recorded by your sysadmin team
+- In the same vein, don't use a company device for personal searches or a personal device for company-related tasks.
 - When not in use, turn off signal broadcasters on your devices:
 	- Bluetooth when nothing's connected
 	- Wifi when using mobile data
@@ -64,6 +65,7 @@ To quell these fears, here's a list in order of how I thought of them (aka in no
 	- If an app needs a permission, click "only this time" when needed
 - Don't plug your phone in places you don't trust. If you need to plug your phone in somewhere get a power bank or a set of data blockers, known less formally as [phone condoms](https://a.co/d/00UeaXcy).
 	- Data blockers work by having onlyddd power pins, the data pins are entirely absent. Thus, without data pins, no data can flow through them. You can test this out by sticking a mouse dongle into it and plugging it into your computer. You'll see that you're not able to use the mouse.
+- Don't use unsecured WiFi
 ## Tier 2 - CorpFree
 You've seen them all in the news: Microsoft, Tesla, Apple, Google, Meta. Breached, leaked, hacked. For the vast majority of people, these are just buzz words; and that's all they'll ever be. Some are aware these leaks can lead to some consequences. For a few unfortunates, however, it has lead to dire consequences: Identity theft, financial fraud, privacy invasions, targeted attacks. Any one of these is devastating to have to deal with and resolve. The internet has made all of this easier, now more than ever, and for even the non-professional, to perform all of these attacks against a single person.
 
